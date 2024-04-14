@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#B5EAB5B5</color>
+    <color name="green_1">#B09AECE4</color>
+    <color name="green_2">#927BDA7F</color>
+    <color name="orgrange">#B5F1CEB0</color>
+    <color name="grey">#9F959393</color>
+    <color name="banner">#F1C9D6</color>
+    <color name="Textcam">#FF9800</color>
+    <color name="xanhnhat">#ABA2C1A3</color>
+    <color name="chu_xanhla">#F0245A26</color>
+    <color name="xam">#F8565756</color>
+    <color name="small_cam">#8DF1CD98</color>
+    <color name="xanhnen">#46C04B</color>
+    <color name="nencart">#ADC4C6C4</color>
+</resources>
